@@ -1,4 +1,6 @@
 ENILITE,J hub
+
+ENILITE is an entreprenuerial workshop organised and hosted in JNTUH 
 Worked and proposed the idea on the product called FaRec ,Facial
 Recognition inbuilt CCTV Cameras with intelligence with the team of 5
 members
